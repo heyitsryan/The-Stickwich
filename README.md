@@ -15,7 +15,8 @@ currently this enclosure is for a hand wired controller design. I do plan to des
 4 M6 x 40mm bolts  
 4 M6 nuts  
 4 M2 x 10 screws (to mount the Raspberry Pi Pico into the controller)  
-adhesive backed neoprene sheets or your preferred grip option.  
+adhesive backed neoprene sheets or your preferred grip option. 
+Model UD BirdD usb c breakout board https://github.com/HTangl/Model-UD or this breakout board from amazon https://www.amazon.com/dp/B07771CFFM?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
 ## Tools needed
 3d printer with a 300x300 build volume or order the files from a 3d printing service such as jlcpcb (files for standard ender 3 build volume coming soon)  
