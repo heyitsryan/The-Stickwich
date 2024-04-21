@@ -1,4 +1,4 @@
-# The-Stickwich
+# The Stickwich
 ## A 3D printable video game controller enclosure for Two Step digital analog stick based controllers.
 
 ![IMG_20240417_190344533_HDR (1)](https://github.com/heyitsryan/The-Stickwich/assets/2439341/94f7bcaa-280a-40d9-ad7d-518c3af8e9ae)
