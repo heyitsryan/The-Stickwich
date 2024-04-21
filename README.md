@@ -41,4 +41,6 @@ To insert the M6 nuts into the hex holes on the bottom of the bottom piece I fin
 
 Once this is done you are able to line up your top and bottom pieces and insert your M6 x 40 bolts into all 4 corner holes and tighten them into the nuts you secured into the bottom piece. Tighten until the top piece is secured tightly (does not need to be over tightened) and you are done with the assembly. This guide will not cover wiring up the controller as that is covered in the Two Step guide.
 
-#ENJOY YOUR CONTROLLER!
+# ENJOY YOUR CONTROLLER!
+
+Thank you so much for checking out my project!
