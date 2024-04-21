@@ -14,6 +14,8 @@ currently this enclosure is for a hand wired controller design. I do plan to des
 ## Hardware needed: 
 4 M6 x 40mm bolts  
 4 M6 nuts  
+4 M4 x 10 flat head screws for mounting the Two Step
+4 M4 nuts
 4 M2 x 10 screws (to mount the Raspberry Pi Pico into the controller)  
 adhesive backed neoprene sheets or your preferred grip option. 
 Model UD BirdD usb c breakout board https://github.com/HTangl/Model-UD or this breakout board from amazon https://www.amazon.com/dp/B07771CFFM?psc=1&ref=ppx_yo2ov_dt_b_product_details
